@@ -50,5 +50,3 @@ It was my first time with a game it was quite exciting and a good learning journ
 - Frontend Mentor - (https://www.frontendmentor.io/profile/ChahatC)
 
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
